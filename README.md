@@ -1,2 +1,3 @@
-# TyperFastAPI
-🖥️ A repo of FastAPI and Typer projects for learning purposes
+# 🖥️ Typer & FastAPI
+
+A repo of FastAPI and Typer projects for learning purposes.
